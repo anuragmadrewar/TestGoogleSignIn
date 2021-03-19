@@ -8,12 +8,7 @@ import { LogoutComponent } from './components/logout/logout.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    LoginComponent,
-    LogoutComponent,
-    DashboardComponent
-  ],
+  declarations: [,AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule
